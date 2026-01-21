@@ -34,13 +34,13 @@ Your application must meet the following design specifications:
   * Any output information must be clearly defined using printed headers (DataFrame tables) or sentences (scalar values).
 * Stage 4: Analysis and Calculations
   * You may choose what data trends to present from your data. However, you must meet the specifications below.
-  * Use the describe method to print aggregate stats for the entire dataset.
-  * Add at least two columns to the combined dataset.
-  * Use an aggregation computation for a subset of the data.
-  * Use a masking operation.
-  * Use the 'groupby' operation at least once.
-  * Create and print a pivot table.
-  * Include at least two user-defined functions or a class that contains two methods.
+    * Use the describe method to print aggregate stats for the entire dataset.
+    * Add at least two columns to the combined dataset.
+    * Use an aggregation computation for a subset of the data.
+    * Use a masking operation.
+    * Use the 'groupby' operation at least once.
+    * Create and print a pivot table.
+    * Include at least two user-defined functions or a class that contains two methods.
 * Stage 5: Export and Matplotlib
   * At the conclusion of your program, export your entire merged, hierarchical dataset to an Excel file in the working directory. Be sure to include the index and header values. This will be used to verify the structure of your dataset and your added columns.
   * Use your data to create at least one plot using Matplotlib. Save the plot as a `.png` file and upload it to the repository.
