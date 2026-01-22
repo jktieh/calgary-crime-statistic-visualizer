@@ -2,8 +2,7 @@
 
 Calgary Community Crime Statistics Dataset Analysis
 
-Authors: Jason Chiu and Jason Tieh
-Group: 1
+Authors: Jason Tieh and Jason Chiu
 
 ## Dataset Description
 
